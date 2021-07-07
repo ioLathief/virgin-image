@@ -1,5 +1,4 @@
 # Virgin Image
----
 This is high performance nodejs image server
 
 
